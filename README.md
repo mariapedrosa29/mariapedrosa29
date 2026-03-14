@@ -19,5 +19,5 @@
 ---
 
 ### 💓 My contacts
-- **LinkedIn:** [Maria Antônia Pedrosa](https://www.linkedin.com/in/maria-ant%C3%B4nia-dos-santos-pedrosa-5454ba271/)
+- **LinkedIn:** [Maria Antônia Pedrosa](https://www.linkedin.com/in/maria-antonia-pedrosa/)
 - **Email:** [mariaantonia.spedrosa@gmail.com](mailto:mariaantonia.spedrosa@gmail.com)
